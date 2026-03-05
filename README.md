@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Sakshee 👋
 
-<!--
-**sakshee-dev/sakshee-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer II working on industrial data systems and AI-powered applications.
 
-Here are some ideas to get you started:
+My work focuses on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Real-time data systems (OPC UA, MQTT)  
+• Industrial telemetry pipelines  
+• AI and LLM applications  
+• Backend systems in Python  
+
+---
+
+## Tech Stack
+
+Python  
+FastAPI  
+OPC UA  
+MQTT  
+TimescaleDB  
+PostgreSQL
+Docker  
+Azure  
+OpenAI / LLMs  
+Google colab
+Machine Learning 
+
+---
+
+## Current Focus
+
+Exploring how AI and LLMs can improve operational intelligence in industrial systems.
+
+Areas of interest:
+
+• Retrieval Augmented Generation (RAG)  
+• Agentic AI systems  
+• Observability for LLM applications  
+• Industrial AI
+
+---
+
+## Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/saksheesingh9
